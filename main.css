@@ -88,10 +88,12 @@ margin: 	8px;
 
 .rotate {
 	webkit-transition: all 0.5s ease-in-out;
+	transition:  all 1s ease-in-out;
 }
 
 .rotate:hover {
 	webkit-transition: all 0.5s ease-in-out;
+	transition:  all 1s ease-in-out;
 }
 .div5 {
 background-color: black;
