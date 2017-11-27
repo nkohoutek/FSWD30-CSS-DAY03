@@ -1,4 +1,6 @@
 **Explain how giving an element multiple borders works
+with the pseudo-elements ::before and ::after 
+u can use them, to give your DOM elements multiple borders at once.
 
 **You would like to use transitions and transformations in CSS3. What different naming conventions exists?
 
